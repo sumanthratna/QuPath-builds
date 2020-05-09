@@ -10,5 +10,5 @@ jenv local openjdk64-14.0.1
 
 ## v0.2.0-m12
 built with:
-- macOS 10.15.5
+- macOS 10.15.5 Beta (19F72f)
 - openjdk64-14.0.1
